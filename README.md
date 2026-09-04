@@ -19,6 +19,19 @@ Saint Petersburg · ITMO University
 
 **EN** — I work on applied ML and agentic LLM systems: structured-data extraction pipelines, fully local (offline) LLM agents for code generation and validation, NLP and ranking. In parallel — computer graphics and math in C/C++ built from scratch. 20+ hackathons; the most representative ones are below.
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=IR630&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=percentile">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IR630&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=percentile" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IR630&layout=compact&theme=github_dark&hide_border=true&count_private=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IR630&layout=compact&theme=default&hide_border=true&count_private=true" alt="Top languages" />
+</picture>
+
+</div>
+
 ## Проекты · Projects
 
 | | RU | EN |
@@ -28,4 +41,3 @@ Saint Petersburg · ITMO University
 | **[raytracer](https://github.com/IR630/raytracer)** | Рекурсивный CPU ray tracer на C++ с нуля: CSG, модель Фонга, отражения/преломления, многопоточный рендер | From-scratch recursive CPU ray tracer in C++: CSG, Phong shading, reflection/refraction, multithreaded rendering |
 | **[tender_hack](https://github.com/IR630/tender_hack)** | Параллельный агрегатор цен с маркетплейсов + ML-ранжирование результатов; жюри запретило любые внешние LLM/поисковые API | Parallel marketplace price aggregator with ML-based result ranking; jury banned all external LLM/search APIs |
 | **[ozon](https://github.com/IR630/ozon)** | Роботизированная сортировка товаров: две RGB-D камеры, классификация геометрии, ROS 2 + Gazebo | Robotic sorting cell: two RGB-D cameras, geometry-based classification, ROS 2 + Gazebo |
-
